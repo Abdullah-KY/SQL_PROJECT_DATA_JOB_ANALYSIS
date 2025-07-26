@@ -69,7 +69,7 @@ LIMIT 10;
 
 - **Top Employers**: Companies like Meta, AT&T, and Pinterest dominate the list, indicating big tech and established firms offer the best remote salaries.
 
-![Top Paying Roles](assets\1_top_paying_jobs.png)
+![Top Paying Roles](assets/1_top_paying_jobs.png)
 *Bar graph visualizing the salary for the top 10 highest paying Data Analyst jobs in 2023. I made this bar chart from a free chart making website*
 
 ## 2. Skills Required for Top-Paying Data Analyst Jobs
@@ -114,7 +114,7 @@ ORDER BY
 3. **Cloud & Data Engineering Tools Give You an Edge:** 
     Tools like AWS, Azure, Snowflake, Databricks, and Power BI were found in several of the top-paying listings. These suggest that top jobs often blur into data engineering and cloud environments, where knowledge of infrastructure and pipelines is a plus.
 
-![Top Paying Job Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Job Skills](assets/2_top_paying_job_skills.png)
 *Bar graph visualizing the frequency of top skills for top paying jobs for Data Analysts in 2023. I made this bar chart from a free chart making website*
 
 ## 3. What are the most in-demand skills for Data Analysts?
