@@ -115,7 +115,7 @@ ORDER BY
     Tools like AWS, Azure, Snowflake, Databricks, and Power BI were found in several of the top-paying listings. These suggest that top jobs often blur into data engineering and cloud environments, where knowledge of infrastructure and pipelines is a plus.
 
 ![Top Paying Job Skills](assets\2_top_paying_job_skills.png)
-*Bar graph visualizing the frequency of top skills for top paying jobs for Data Analysts in 2023. I made this bar chard from a free chart making website*
+*Bar graph visualizing the frequency of top skills for top paying jobs for Data Analysts in 2023. I made this bar chart from a free chart making website*
 
 ## 3. What are the most in-demand skills for Data Analysts?
 This query identifies the top 5 most frequently requested skills in all Data Analyst job postings, giving a clear picture of which skills are currently most sought-after in the job market — helping job seekers prioritize what to learn first.
